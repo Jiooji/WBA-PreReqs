@@ -2,3 +2,6 @@
 node_modules
 target
 .DS_Store
+package-lock.json
+vault_state.json
+mint.json
